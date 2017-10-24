@@ -1,0 +1,31 @@
+﻿Build started 2016/9/22 下午 04:56:03.
+     1>Project "C:\Users\FrankKo\Documents\Visual Studio 2013\Projects\VER20160922_GPUMC_Mie\GPUMC_Mie\GPUMC_Mie.vcxproj" on node 2 (Clean target(s)).
+     1>CudaClean:
+         cmd.exe /C "C:\Users\FrankKo\AppData\Local\Temp\tmp80b94cafe8614574ae3d88cf22611776.cmd"
+         "C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v7.5\bin\nvcc.exe" -ccbin "C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin"  -I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v7.5\include" -I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v7.5\include"  -G   --keep-dir Debug -maxrregcount=0  --machine 32 --compile   -g   -DWIN32 -D_DEBUG -D_CONSOLE -D_MBCS -Xcompiler "/EHsc /W3 /nologo /Od /Zi /RTC1 /MDd " -o Debug\fiber.cu.obj "C:\Users\FrankKo\Documents\Visual Studio 2013\Projects\VER20160922_GPUMC_Mie\GPUMC_Mie\fiber.cu" -clean
+         
+         C:\Users\FrankKo\Documents\Visual Studio 2013\Projects\VER20160922_GPUMC_Mie\GPUMC_Mie>"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v7.5\bin\nvcc.exe" -ccbin "C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin"  -I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v7.5\include" -I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v7.5\include"  -G   --keep-dir Debug -maxrregcount=0  --machine 32 --compile   -g   -DWIN32 -D_DEBUG -D_CONSOLE -D_MBCS -Xcompiler "/EHsc /W3 /nologo /Od /Zi /RTC1 /MDd " -o Debug\fiber.cu.obj "C:\Users\FrankKo\Documents\Visual Studio 2013\Projects\VER20160922_GPUMC_Mie\GPUMC_Mie\fiber.cu" -clean 
+         fiber.cu
+       CudaClean:
+         cmd.exe /C "C:\Users\FrankKo\AppData\Local\Temp\tmp1b793f0fe6574bfbbb51294063a90305.cmd"
+         "C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v7.5\bin\nvcc.exe" -ccbin "C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin"  -I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v7.5\include" -I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v7.5\include"  -G   --keep-dir Debug -maxrregcount=0  --machine 32 --compile   -g   -DWIN32 -D_DEBUG -D_CONSOLE -D_MBCS -Xcompiler "/EHsc /W3 /nologo /Od /Zi /RTC1 /MDd " -o Debug\io.cu.obj "C:\Users\FrankKo\Documents\Visual Studio 2013\Projects\VER20160922_GPUMC_Mie\GPUMC_Mie\io.cu" -clean
+         
+         C:\Users\FrankKo\Documents\Visual Studio 2013\Projects\VER20160922_GPUMC_Mie\GPUMC_Mie>"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v7.5\bin\nvcc.exe" -ccbin "C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin"  -I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v7.5\include" -I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v7.5\include"  -G   --keep-dir Debug -maxrregcount=0  --machine 32 --compile   -g   -DWIN32 -D_DEBUG -D_CONSOLE -D_MBCS -Xcompiler "/EHsc /W3 /nologo /Od /Zi /RTC1 /MDd " -o Debug\io.cu.obj "C:\Users\FrankKo\Documents\Visual Studio 2013\Projects\VER20160922_GPUMC_Mie\GPUMC_Mie\io.cu" -clean 
+         io.cu
+       CudaClean:
+         cmd.exe /C "C:\Users\FrankKo\AppData\Local\Temp\tmpb16114f049e946f1a0fbe9c6a2a0509d.cmd"
+         "C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v7.5\bin\nvcc.exe" -ccbin "C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin"  -I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v7.5\include" -I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v7.5\include"  -G   --keep-dir Debug -maxrregcount=0  --machine 32 --compile   -g   -DWIN32 -D_DEBUG -D_CONSOLE -D_MBCS -Xcompiler "/EHsc /W3 /nologo /Od /Zi /RTC1 /MDd " -o Debug\main.cu.obj "C:\Users\FrankKo\Documents\Visual Studio 2013\Projects\VER20160922_GPUMC_Mie\GPUMC_Mie\main.cu" -clean
+         
+         C:\Users\FrankKo\Documents\Visual Studio 2013\Projects\VER20160922_GPUMC_Mie\GPUMC_Mie>"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v7.5\bin\nvcc.exe" -ccbin "C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin"  -I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v7.5\include" -I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v7.5\include"  -G   --keep-dir Debug -maxrregcount=0  --machine 32 --compile   -g   -DWIN32 -D_DEBUG -D_CONSOLE -D_MBCS -Xcompiler "/EHsc /W3 /nologo /Od /Zi /RTC1 /MDd " -o Debug\main.cu.obj "C:\Users\FrankKo\Documents\Visual Studio 2013\Projects\VER20160922_GPUMC_Mie\GPUMC_Mie\main.cu" -clean 
+         main.cu
+       CudaClean:
+         cmd.exe /C "C:\Users\FrankKo\AppData\Local\Temp\tmp5bd02299dbe94db79f460f3097a6696c.cmd"
+         "C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v7.5\bin\nvcc.exe" -ccbin "C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin"  -I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v7.5\include" -I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v7.5\include"  -G   --keep-dir Debug -maxrregcount=0  --machine 32 --compile   -g   -DWIN32 -D_DEBUG -D_CONSOLE -D_MBCS -Xcompiler "/EHsc /W3 /nologo /Od /Zi /RTC1 /MDd " -o Debug\transport.cu.obj "C:\Users\FrankKo\Documents\Visual Studio 2013\Projects\VER20160922_GPUMC_Mie\GPUMC_Mie\transport.cu" -clean
+         
+         C:\Users\FrankKo\Documents\Visual Studio 2013\Projects\VER20160922_GPUMC_Mie\GPUMC_Mie>"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v7.5\bin\nvcc.exe" -ccbin "C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin"  -I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v7.5\include" -I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v7.5\include"  -G   --keep-dir Debug -maxrregcount=0  --machine 32 --compile   -g   -DWIN32 -D_DEBUG -D_CONSOLE -D_MBCS -Xcompiler "/EHsc /W3 /nologo /Od /Zi /RTC1 /MDd " -o Debug\transport.cu.obj "C:\Users\FrankKo\Documents\Visual Studio 2013\Projects\VER20160922_GPUMC_Mie\GPUMC_Mie\transport.cu" -clean 
+         transport.cu
+     1>Done Building Project "C:\Users\FrankKo\Documents\Visual Studio 2013\Projects\VER20160922_GPUMC_Mie\GPUMC_Mie\GPUMC_Mie.vcxproj" (Clean target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.69

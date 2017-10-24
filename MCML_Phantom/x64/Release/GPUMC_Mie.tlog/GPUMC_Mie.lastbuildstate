@@ -1,0 +1,2 @@
+#TargetFrameworkVersion=v4.0:PlatformToolSet=v120:EnableManagedIncrementalBuild=false:VCToolArchitecture=Native32Bit
+Release|x64|C:\Users\Wendy\Documents\MATLAB\drs_fluo_spectroscopy_project\01_phantom_design\gpumc\src\VER20160922_GPUMC_Mie\|
