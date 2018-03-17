@@ -42,4 +42,4 @@ more details about how to modify parameter of phantom(e.g. size, concentration)
 is recorded at README.txt in phase_function directory.
 
 
-systemized by SHI-CHENG,TU 2017.09.11
+SHIH-CHENG,TU 2017.09.11
